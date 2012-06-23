@@ -1,0 +1,30 @@
+// Type Design Boilerplate v0.1
+// https://github.com/raphaelbastide/typedesignboilerplate
+{
+    "typeface": {
+        "name": "Campagnol Chanteur",
+        "authors": [
+            "Raphaël Bastide"
+        ],
+        "licence": "OFL",
+        "foundry": "Velvetyne Type Foundry",
+        "unicode-ranges": "Basic Latin",
+        "tags": [
+            "rounded",
+            "signage",
+            "strict",
+            "libre",
+            "open source"
+        ],
+        "repository-URL": "https://github.com/raphaelbastide/Campagnol-Chanteur",
+        "download-URL": "https://github.com/raphaelbastide/Campagnol-Chanteur/zipball/master",
+        "softwares": [
+            "Inkscape",
+            "Fontforge"
+        ],
+        "similar-fonts": [
+            "…"
+        ],
+        "sample-text": "CAMPAGNOL CHANTEUR IS ROUNDED FOR SIGNAGE",
+    }
+}
