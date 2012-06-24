@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37715181"
-     inkscape:cx="573.1931"
-     inkscape:cy="1388.4885"
+     inkscape:zoom="0.1333433"
+     inkscape:cx="602.0367"
+     inkscape:cy="1134.2746"
      inkscape:document-units="px"
-     inkscape:current-layer="g3004"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="856"
@@ -74,6 +74,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,1052.3622)">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3037"
+       width="1484.8132"
+       height="2102.6016"
+       x="2.6514454"
+       y="-1050.2395"
+       inkscape:export-filename="/Users/raphael/Documents/WORK/PERSO/Campagnol signal/documentation/specimen/specimen.png"
+       inkscape:export-xdpi="54.549999"
+       inkscape:export-ydpi="54.549999" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3150"
@@ -119,46 +129,42 @@
          id="flowPara3184"
          style="line-height:102.99999714%;font-family:Campagnol-Signal;-inkscape-font-specification:Campagnol-Signal">ઌઍઔ઎ચ઒ઙઘ</flowPara><flowPara
          style="line-height:102.99999714%;font-family:Campagnol-Signal;-inkscape-font-specification:Campagnol-Signal"
-         id="flowPara3186">ગખકઓછજઞઝ</flowPara></flowRoot>    <g
-       id="g3004"
-       transform="matrix(1.0636748,0,0,1.0636748,-55.441246,64.14808)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text3134"
-         y="-957.64325"
-         x="113.94168"
-         style="font-size:38.67601395px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Avara;-inkscape-font-specification:Avara Bold"
-         xml:space="preserve"><tspan
-           y="-957.64325"
-           x="113.94168"
-           style="font-family:Campagnol-Signal;-inkscape-font-specification:Campagnol-Signal"
-           id="tspan3166"
-           sodipodi:role="line">CAMPAGNOL SIGNAL</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:38.67601395px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Avara;-inkscape-font-specification:Avara Bold"
-         x="887.40375"
-         y="-957.72058"
-         id="text3188"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3190"
-           style="font-family:Campagnol-Signal;-inkscape-font-specification:Campagnol-Signal"
-           x="887.40375"
-           y="-957.72058">RAPHAËL BASTIDE POUR VTF</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3061"
-         y="-932.84662"
-         x="116.62204"
-         style="font-size:18.03762627px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Avara;-inkscape-font-specification:Avara Bold"
-         xml:space="preserve"><tspan
-           y="-932.84662"
-           x="116.62204"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Whois;-inkscape-font-specification:Whois Medium"
-           id="tspan3063"
-           sodipodi:role="line">Source : github.com/raphaelbastide.com./campagnol-signal</tspan></text>
-    </g>
+         id="flowPara3186">ગખકઓછજઞઝ</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:41.13870239px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Avara;-inkscape-font-specification:Avara Bold"
+       x="65.755646"
+       y="-954.4729"
+       id="text3134"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3166"
+         style="font-family:Campagnol-Signal;-inkscape-font-specification:Campagnol-Signal"
+         x="65.755646"
+         y="-954.4729">CAMPAGNOL SIGNAL</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3188"
+       y="-954.55518"
+       x="888.46777"
+       style="font-size:41.13870239px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Avara;-inkscape-font-specification:Avara Bold"
+       xml:space="preserve"><tspan
+         y="-954.55518"
+         x="888.46777"
+         style="font-family:Campagnol-Signal;-inkscape-font-specification:Campagnol-Signal"
+         id="tspan3190"
+         sodipodi:role="line">RAPHAËL BASTIDE POUR VTF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.60027695px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Avara;-inkscape-font-specification:Avara Bold"
+       x="68.548683"
+       y="-927.09131"
+       id="text3061"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3063"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Whois;-inkscape-font-specification:Whois Medium"
+         x="68.548683"
+         y="-927.09131">Source : github.com/rapahaelbastide/Campagnol-Signal</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:113.48825073px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Avara;-inkscape-font-specification:Avara Bold"
