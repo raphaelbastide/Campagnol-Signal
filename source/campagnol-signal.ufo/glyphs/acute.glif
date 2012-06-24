@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="800"/>
+  <unicode hex="00b4"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <unicode hex="02ca"/>
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="500" y="894" type="line" smooth="yes"/>
+      <point x="517.756" y="907.127"/>
+      <point x="521.733" y="932.062"/>
+      <point x="508.711" y="949.895" type="curve" smooth="yes"/>
+      <point x="495.688" y="967.726"/>
+      <point x="470.572" y="971.732"/>
+      <point x="452.816" y="958.605" type="curve" smooth="yes"/>
+      <point x="324.711" y="863.895" type="line" smooth="yes"/>
+      <point x="306.935" y="850.796"/>
+      <point x="302.978" y="825.831"/>
+      <point x="316" y="808" type="curve" smooth="yes"/>
+      <point x="329.022" y="790.169"/>
+      <point x="354.119" y="786.191"/>
+      <point x="371.895" y="799.289" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>550</integer>
+	    <key>width</key>	    <integer>150</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>330</integer>
+	    <key>width</key>
+	    <integer>195</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

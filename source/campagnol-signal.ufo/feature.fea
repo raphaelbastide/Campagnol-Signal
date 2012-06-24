@@ -1,0 +1,41 @@
+
+# GPOS 
+
+
+lookup kernHorizontalKerninglookup0 {
+  lookupflag 0;
+    pos \O \N 27;
+    pos \A \S -31;
+    pos \A \G -46;
+    pos \A \V -131;
+    pos \A \R 9;
+    pos \C \A -33;
+    pos \E \O -38;
+    pos \F \O -69;
+    pos \J \O -60;
+    pos \K \S -31;
+    pos \L \quotesingle -92;
+    pos \L \S -23;
+    pos \L \O -62;
+    pos \M \E 15;
+    pos \R \B 13;
+    pos \T \A -138;
+    pos \T \O -64;
+    pos \V \A -155;
+    pos \P \A -139;
+} kernHorizontalKerninglookup0;
+
+feature kern {
+
+  script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+  script gujr;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+  script latn;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+} kern;
